@@ -108,4 +108,41 @@ h2 {
 
 /* Habilidades */
 
+.content-skills {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40%;
+}
+
+.content-skills .img {
+    margin: 1rem;
+}
+
+.content-skills h3 {
+    margin: 1rem;
+    color: #4E64A6;
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
 /* Projetos */
+
+.content-project {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.content-project .card {
+    background: linear-gradient(45deg, #4E64A6, #273273);
+    color: #FFF;
+    width: 330px;
+    height: 250px;
+    margin: 1rem 0rem 1rem 0rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
