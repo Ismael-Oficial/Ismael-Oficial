@@ -84,7 +84,7 @@ h1 {
     background: #FFF;
     width: 90%;
     height: 90vh;
-    box-shadow: 5px 5px 0px #273273;
+    box-shadow: 6px 6px 0px #4E64A6;
     color: #000;
 }
 
@@ -132,17 +132,32 @@ h2 {
 
 .content-project {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
 
 .content-project .card {
     background: linear-gradient(45deg, #4E64A6, #273273);
     color: #FFF;
-    width: 330px;
-    height: 250px;
-    margin: 1rem 0rem 1rem 0rem;
+    width: 300px;
+    height: 220px;
+    margin: 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.github{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.github button {
+    padding: 1.5rem;
+    margin: 1rem;
+    background: linear-gradient(45deg, #4E64A6, #273273);
+    border: none;
+    color: #FFF;
+    text-transform: uppercase;
 }
