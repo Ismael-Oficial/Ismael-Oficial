@@ -1,6 +1,7 @@
 ## Olá! Eu sou Ismael Chaves 🖐
 _______________________________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismael-Oficial&show_icons=true&theme=onedark)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-Oficial&layout=compact&langs_count=7&theme=dark"/>
 _______________________________
 ## Habilidades Tecnológicas
 
