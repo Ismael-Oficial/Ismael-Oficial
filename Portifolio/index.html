@@ -26,12 +26,18 @@
     <section id="inicio">
         <img src="imgs/icon-persona.png">
         <h1>Ismael Chaves</h1>
-        <p>Olá Mundo! Seja Bem-Vindo</p>
-        <input type="button" class="btn-cv" value="Visualizar CV">
+        <p>Olá Mundo! Seja Bem-Vindo ao meu Portifólio</p>
+        <input type="button" class="btn-cv" value="Visualizar CV" onclick="alerta()">
         <div class="links">
-            <img src="imgs/github-sign.png">
-            <img src="imgs/linkedin.png">
-            <img src="imgs/youtube.png">
+            <a href="https://github.com/Ismael-Oficial">
+                <img src="imgs/github-sign.png">
+            </a>
+            <a href="https://www.linkedin.com/in/ismael-oficial/">
+                <img src="imgs/linkedin.png">
+            </a>
+            <a href="https://www.instagram.com/ismaelchaves2001/">
+                <img src="imgs/instagram.png">
+            </a>
         </div>
     </section>
 
@@ -39,19 +45,34 @@
         <div class="container">
             <h2>Sobre Mim</h2>
             <div class="txt">
-                <p>Meu nome é Ismael Chaves Mizael, atualmente tenho 21 anos, nascido e residido em São Paulo - Capital,
-                    eu sou um Desenvolvedor Web iniciante onde crio desenvolvimento de projetos para internet na parte
-                    do Front-End.</p>
-                <p>No ano de 2019/2020 cursei e me formei em Desenvolvimento de Sistemas na instituição ETEC Paulistano,
-                    uma Escola Técnica institucionada pelo Governo de São Paulo com o objetivo de formar profissionais
-                    para o mercado de trabalho.</p>
-                <p>No período do Curso aprendi sobre Lógica de Programação, Programação Web, Banco de Dados, Programação
-                    Mobile e a criação Designs e uma breve passagem em Hardwares e redes.</p>
-                <p>Almejo entrar no mercado de desenvolvimento, mais especificamente como Front-End para que possa
-                    demonstrar meus conhecimentos e capacitações, ajudar e contribuir para o crescimento da empresa e de
-                    meus colegas de trabalho.</p>
-                <p>Me sinto apto para não somente aplicar, mas também buscar novos conhecimentos para meu crescimento
-                    profissional na área.</p>
+                <p>Olá! Seja bem-vindo ao meu portifólio, me chamo Ismael Chaves e atualmente tenho 21 anos, sou
+                    estudante em desenvolvimento web no Instituto PROA onde busco me capacitar para ingressar no mercado
+                    de trabalho.</p>
+                <p>Programar pra mim é uma paixão, conheci esse universo em 2019 quando cursei Desenvolvimento de
+                    Sistemas na Etec e me formei em 2020, de lá pra cá estou buscando cada vez mais me aprimorar
+                    nesse mundo tecnológico para poder contrinuir como desenvolvedor júnior.</p>
+                <p>Me considero uma pessoa determinada e desafios não me fazem desistir facilmente, acredito fortemente
+                    que tudo é possível com foco, determinação e estudos.</p>
+            </div>
+            <div class="content-timeline">
+                <div class="time-line">
+                    <div class="point" id="line-1">
+                        <span>2019</span>
+                        <p>Inicio dos estudos na ETEC</p>
+                    </div>
+                    <div class="point" id="line-2">
+                        <span>2020</span>
+                        <p>Fim dos estudos na ETEC</p>
+                    </div>
+                    <div class="point" id="line-3">
+                        <span>2023</span>
+                        <p>Inicio dos estudos no PROA</p>
+                    </div>
+                    <div class="point" id="line-4">
+                        <span>2023</span>
+                        <p>Fim dos estudos no PROA</p>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -112,9 +133,17 @@
                 <div class="card">Em Breve</div>
             </div>
             <div class="github">
-                <button>Ver Mais</button>
+                <a href="https://github.com/Ismael-Oficial" target="_blank">
+                    <button>Ver Mais</button>
+                </a>
             </div>
     </section>
+
+    <script>
+        function alerta(){
+            alert("OPS! Ainda trabalhando nisso...")
+        }
+    </script>
 </body>
 
 </html>
