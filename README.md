@@ -15,6 +15,6 @@ _______________________________
 </div><br/>
 
 <div>
-  <h3>“Hoje, o ‘eu não sei’, se tornou o ‘eu ainda não sei’.”</h3>
+  <h3><i>“Hoje, o ‘eu não sei’, se tornou o ‘eu ainda não sei’.”</i></h3>
   <p>- Bill Gates</p>
 </div>
