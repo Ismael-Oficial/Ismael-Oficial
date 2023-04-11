@@ -10,11 +10,11 @@ _______________________________
   <img align="center" alt="css" src="https://img.shields.io/badge/SASS-FA0897?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/React-08B1FA?style=for-the-badge&logo=reactjs&logoColor=black" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/React.Js-08B1FA?style=for-the-badge&logo=reactjs&logoColor=black" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Figma-FF0000?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
 <div>
-  <p>“Hoje, o ‘eu não sei’, se tornou o ‘eu ainda não sei’.”</p>
+  <h3>“Hoje, o ‘eu não sei’, se tornou o ‘eu ainda não sei’.”</h3>
   <p>- Bill Gates</p>
 </div>
