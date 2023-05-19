@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E8AE6&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo+Eu+Sou+Ismael+Chaves;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo+Eu+Sou+Ismael+Chaves;Desenvolvedor+Full-Stack;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ismael-Oficial&show_icons=true&count_private=true&hide_border=true&title_color=0E8AE6&icon_color=0E8AE6&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
@@ -9,13 +9,15 @@
 
 <br>
 <div style="display: inline_block" align="center">
+    <img align="center" alt="js" src="https://img.shields.io/badge/Figma-FF0000?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/SASS-FA0897?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="js" src="https://img.shields.io/badge/React.Js-08B1FA?style=for-the-badge&logo=REACT&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Figma-FF0000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-363636?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 <br>
 
