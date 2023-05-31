@@ -20,6 +20,8 @@
 </div><br/>
 <br>
 
+![Snake Game](https://github.com/Ismael-Oficial/Ismael-Oficial/blob/output/github-contribution-grid-snake.svg)
+
 <div align="justify">
   <p>
     Olá, meu nome é Ismael Chaves tenho 21 anos e sou uma pessoa apaixonada por tecnologia e inovação. <br>
