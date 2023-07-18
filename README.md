@@ -25,8 +25,7 @@
 
 <div align="justify">
   <p>
-    Olá, meu nome é Ismael Chaves tenho 21 anos e sou uma pessoa apaixonada por tecnologia e inovação. <br>
-    Atualmente estou como estudante em desenvolvimento web no Instituto PROA onde busco me capacitar para ingressar no mercado de trabalho.
+    Olá Mundo! Me chamo Ismael Chaves Mizael e atualmente tenho 22 anos, sou formado em Desenvolvimento Web Java pelo Instituto PROA onde me auxiliou na capacitação para ingressar no mercado de trabalho.
   </p>
 
   <p>
