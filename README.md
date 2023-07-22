@@ -21,8 +21,6 @@
 </div>
 <br>
 
-![Snake Game](https://github.com/Ismael-Oficial/Ismael-Oficial/blob/output/github-contribution-grid-snake.svg)
-
 <div align="justify">
   <p>
     Olá Mundo! Me chamo Ismael Chaves Mizael e atualmente tenho 22 anos, sou formado em Desenvolvimento Web Java pelo Instituto PROA onde me auxiliou na capacitação para ingressar no mercado de trabalho.
