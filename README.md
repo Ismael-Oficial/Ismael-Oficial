@@ -24,7 +24,7 @@
 
 <div align="justify">
   <p>
-   Olá, eu sou Ismael Chaves Mizael, possuo 22 anos, entusiasta da tecnologia e um desenvolvedor web apaixonado. Minha jornada no mundo da programação começou com um firme propósito: buscar conhecimento e evoluir constantemente.
+   Olá, eu sou Ismael, possuo 23 anos, entusiasta da tecnologia e um desenvolvedor web apaixonado. Minha jornada no mundo da programação começou com um firme propósito: buscar conhecimento e evoluir constantemente.
   </p>
 
 <h2>🎓 Formação Profissional:</h2>
