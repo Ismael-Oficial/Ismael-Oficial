@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E8AE6&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo+Eu+Sou+Ismael+Chaves;Desenvolvedor+Full-Stack;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;"Hoje,+o+"eu+não+sei,+se+tornou+o+"ainda+não+sei";"~Bill+Gates")](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ismael-Oficial&show_icons=true&count_private=true&hide_border=true&title_color=0E8AE6&icon_color=0E8AE6&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
@@ -24,14 +24,15 @@
 
 <div align="justify">
   <p>
-   Olá, eu sou Ismael, possuo 23 anos, entusiasta da tecnologia e um desenvolvedor web apaixonado. Minha jornada no mundo da programação começou com um firme propósito: buscar conhecimento e evoluir constantemente.
+   Sou um entusiasta da tecnologia e desenvolvedor web apaixonado por resolver problemas e criar soluções. Tenho 23 anos e iniciei minha jornada na programação com um propósito claro: buscar conhecimento e evoluir continuamente.
   </p>
 
 <h2>🎓 Formação Profissional:</h2>
   <ul>
-    <li>Graduado pelo Instituto PROA como Desenvolvedor Web Java.</li>
-    <li>Concluí o curso de Desenvolvimento Web na Etec Paulistano.</li>
-    <li>Certificado em Fundamentos de AWS pela Escola da Nuvem.</li>
+    <li><b>💻 Análise e Desenvolvimento de Sistemas</b> – UNIAMERICA (em andamento)</li>
+    <li><b>🧩 Técnico em Desenvolvimento de Sistemas</b> – ETEC Paulistano</li>
+    <li><b>🌐 Desenvolvedor Web Java</b> – Instituto PROA (concluído)</li>
+    <li><b>☁️ Fundamentos de AWS</b> – Escola da Nuvem (certificado)</li>
   </ul>
 
   <p>
@@ -43,15 +44,14 @@
   <h2>Habilidades e Interesses</h2>
 
   <ul>
-    <li>Desenvolvimento web com foco em tecnologias Java.</li>
-    <li>Utilização e implantação de serviços da AWS.</li>
-    <li>Resolução criativa de problemas.</li>
-    <li>Trabalho em equipe e comunicação eficaz.</li>
-    <li>Paixão por aprender e acompanhar as últimas tendências tecnológicas.</li>
+    <li>Desenvolvimento web com foco em JavaScript</li>
+    <li>Implantação e uso de serviços da AWS</li>
+    <li>Resolução de problemas com criatividade e organização</li>
+    <li>Colaboração em equipe e comunicação eficaz</li>
   </ul>
 
   <p>
-    Estou constantemente expandindo meu conjunto de habilidades e explorando novas tecnologias para me manter atualizado no mundo em constante evolução da tecnologia da informação. Se você compartilha interesses semelhantes ou deseja colaborar em projetos emocionantes, fique à vontade para entrar em contato comigo. Estou sempre aberto a novas oportunidades e parcerias.
+    Tenho como filosofia a aprendizagem contínua e acredito que trabalho em equipe é a chave para o sucesso de qualquer projeto. Estou sempre em busca de novos desafios que contribuam para meu crescimento pessoal e profissional.
   </p>
 </div>
 
