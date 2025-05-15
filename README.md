@@ -54,18 +54,13 @@
     Tenho como filosofia a aprendizagem contínua e acredito que trabalho em equipe é a chave para o sucesso de qualquer projeto. Estou sempre em busca de novos desafios que contribuam para meu crescimento pessoal e profissional.
   </p>
 </div>
-
+<hr>
 <div align="justify">
   <h2>Contato</h2>
   <ul>
     <li>📧 Email: ismaelchaves2001@outlook.com</li>
     <li>🌐 LinkedIn: https://www.linkedin.com/in/ismael-oficial/</li>
   </ul>
-</div>
-
-<div align="end">
-  <h3><i>“Hoje, o ‘eu não sei’, se tornou o ‘eu ainda não sei’.”</i></h3>
-  <p><i>- Bill Gates</i></p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E8AE6&height=120&section=footer"/>
