@@ -24,13 +24,13 @@
 
 <div align="justify">
   <p>
-   Sou um entusiasta da tecnologia e desenvolvedor web apaixonado por resolver problemas e criar soluções. Tenho 23 anos e iniciei minha jornada na programação com um propósito claro: buscar conhecimento e evoluir continuamente.
+   Sou um entusiasta da tecnologia e desenvolvedor web apaixonado por resolver problemas e criar soluções. Tenho 24 anos e iniciei minha jornada na programação com um propósito claro: buscar conhecimento e evoluir continuamente.
   </p>
 
 <h2>🎓 Formação Profissional:</h2>
   <ul>
     <li><b>💻 Análise e Desenvolvimento de Sistemas</b> – UNIAMERICA (em andamento)</li>
-    <li><b>🧩 Técnico em Desenvolvimento de Sistemas</b> – ETEC Paulistano</li>
+    <li><b>🧩 Técnico em Desenvolvimento de Sistemas</b> – ETEC Paulistano (concluído)</li>
     <li><b>🌐 Desenvolvedor Web Java</b> – Instituto PROA (concluído)</li>
     <li><b>☁️ Fundamentos de AWS</b> – Escola da Nuvem (certificado)</li>
   </ul>
